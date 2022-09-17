@@ -1,4 +1,4 @@
-#discord : pakpak#5600
+#discord : LIOR〤#1111
 
 import tkinter as tk
 from tkinter import *
